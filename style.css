@@ -1,0 +1,59 @@
+.nav-link {
+    color: red;
+    font-family: "Cardo", serif;
+    font-weight: 600;
+    font-style: normal;
+}
+
+.title-text {
+    font-family: "Cardo", serif;
+    font-weight: 600;
+    font-style: normal;
+    color: red;
+}
+
+.title-text2 {
+    font-family: "Cardo", serif;
+    font-weight: 900;
+    font-style:normal;
+    color: red;
+}
+
+
+
+.text-subtitle {
+    font-family: "Cardo", serif;
+    font-weight: 500;
+    font-style: normal;
+    color: red;
+}
+
+.text-subtitle2 {
+    font-family: "Cardo", serif;
+    font-weight: 900;
+    font-style: normal;
+    color: black;
+}
+
+.why {
+    background-image: url('./background2.png');
+    background-size: cover;
+    background-position: center;
+    border-radius: 50px;
+}
+
+
+.compare-prices {
+    font-family: "Cardo", serif;
+    font-weight: 600;
+    font-style: normal;
+    color: red;
+}
+
+.compare-suites {
+    font-family: "Cardo", serif;
+    font-weight: 500;
+    font-style: normal;
+    color: red;
+    
+}
